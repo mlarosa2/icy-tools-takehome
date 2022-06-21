@@ -1,3 +1,6 @@
+## Deployed URL
+https://icy-tools-takehome-2ojqsdp1x-mlarosa2.vercel.app/
+
 ## Did you finish everything you wanted to? If not, what would you do if you spent another hour or two working on this?
     No, given some more time, I would have learned how to get a block number from metamask, created the countdown timer, wrote some tests
     and styled the components. Being unfamiliar with web3, I found it difficult to quickly search for what I needed to get block information.
